@@ -1,0 +1,12 @@
+body {
+  background-color: blue;
+  padding: 12px 30px;
+  color: brown;
+  margin: 23px 45px;
+  justify-content: center;
+  align-items: baseline;
+  font-size: medium;
+  text-decoration: double;
+  flex-direction: column-reverse;
+  display: block;
+}
